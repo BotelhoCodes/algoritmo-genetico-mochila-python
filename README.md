@@ -1,0 +1,1 @@
+Projeto desenvolvido para resolução do problema da mochila utilizando Algoritmo Genético. O objetivo é analisar o desempenho do algoritmo em diferentes cenários de capacidade da mochila e com conjuntos distintos de itens.
